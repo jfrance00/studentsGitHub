@@ -1,0 +1,9 @@
+[submodule "studentsGitHub\\Python\\Week6\\Day5"]
+	path = studentsGitHub\\Python\\Week6\\Day5
+	url = https://github.com/devtlv/FlaskIntroduction
+[submodule "Python\\Week6\\Day5"]
+	path = Python\\Week6\\Day5
+	url = https://github.com/devtlv/FlaskIntroduction.git
+[submodule "Python/Week6/Day5/FlaskIntroduction"]
+	path = Python/Week6/Day5/FlaskIntroduction
+	url = https://github.com/devtlv/FlaskIntroduction.git
